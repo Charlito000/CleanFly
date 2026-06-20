@@ -1,6 +1,8 @@
 # CleanFly
 
-En MAIN esta video de avance del juego, escenario montado y movimiento del jugador.
+En este MAIN esta el juego CLEANFLY exportado listo para jugar
+
+Tambien esta el GDD actualizado y con diseño para leer acerca de la creacion del Videojuego.
 
 
-Entrar a MASTER para ver los archivos
+
