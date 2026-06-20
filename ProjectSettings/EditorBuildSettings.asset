@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/copia.unity
+    path: Assets/Menu.unity
+    guid: 75be82dbcf737864f827e30f59396aff
+  - enabled: 1
+    path: Assets/Nivel1.unity
     guid: e1eb3d5105d44d0449fa092484201cba
+  - enabled: 1
+    path: Assets/Nivel2.unity
+    guid: 255d67bbb58971349aff1cbe029999d7
+  - enabled: 1
+    path: Assets/Nivel3.unity
+    guid: 516f67d3ae7a2264d88252dbf4cc830d
   m_configObjects: {}

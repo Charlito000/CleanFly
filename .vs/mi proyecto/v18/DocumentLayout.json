@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Pc\\mi proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:1:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|c:\\users\\pc\\mi proyecto\\assets\\flymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\flymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\Narrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Narrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|c:\\users\\pc\\mi proyecto\\assets\\flycamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\flycamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\nivelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nivelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\mi proyecto\\Temp\\GeneratedFromSurface-Custom-NewSurfaceShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\GeneratedFromSurface-Custom-NewSurfaceShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:1:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|c:\\users\\pc\\mi proyecto\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\mi proyecto\\Assets\\NewSurfaceShader 1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewSurfaceShader 1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\limpiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\limpiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|c:\\users\\pc\\mi proyecto\\assets\\flycamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\flycamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\Assets\\FlyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:Assets\\FlyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\pausamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\npcsentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcsentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\indicadordano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\indicadordano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|C:\\Users\\Pc\\mi proyecto\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{6C11C74F-3DD6-936A-31D2-C5E06A74915A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,75 +58,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FlyCamara.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\FlyCamara.cs",
-              "RelativeDocumentMoniker": "Assets\\FlyCamara.cs",
-              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\FlyCamara.cs",
-              "RelativeToolTip": "Assets\\FlyCamara.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T21:31:42.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GeneratedFromSurface-Custom-NewSurfaceShader.shader",
-              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Temp\\GeneratedFromSurface-Custom-NewSurfaceShader.shader",
-              "RelativeDocumentMoniker": "Temp\\GeneratedFromSurface-Custom-NewSurfaceShader.shader",
-              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Temp\\GeneratedFromSurface-Custom-NewSurfaceShader.shader",
-              "RelativeToolTip": "Temp\\GeneratedFromSurface-Custom-NewSurfaceShader.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-04-08T01:39:02.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewSurfaceShader 1.shader",
-              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\NewSurfaceShader 1.shader",
-              "RelativeDocumentMoniker": "Assets\\NewSurfaceShader 1.shader",
-              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\NewSurfaceShader 1.shader",
-              "RelativeToolTip": "Assets\\NewSurfaceShader 1.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-04-08T01:41:30.388Z"
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\MenuManager.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAowJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:48:46.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FlyMovement.cs",
-              "DocumentMoniker": "Stub",
-              "ToolTip": "Stub",
+              "Title": "Narrador.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\Narrador.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Narrador.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\Narrador.cs",
+              "RelativeToolTip": "Assets\\scripts\\Narrador.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T21:31:42.707Z",
+              "WhenOpened": "2026-06-20T02:23:52.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FlyCamara.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\FlyCamara.cs",
-              "RelativeDocumentMoniker": "Assets\\FlyCamara.cs",
-              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\FlyCamara.cs",
-              "RelativeToolTip": "Assets\\FlyCamara.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Limpiable.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\Limpiable.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Limpiable.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\Limpiable.cs",
+              "RelativeToolTip": "Assets\\scripts\\Limpiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T22:52:53.873Z",
+              "WhenOpened": "2026-06-18T17:52:27.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NivelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\NivelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\NivelManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\NivelManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\NivelManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T01:44:31.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FlyMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\FlyMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\FlyMovement.cs",
-              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\FlyMovement.cs",
-              "RelativeToolTip": "Assets\\FlyMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-04-09T21:31:42.679Z"
+              "Title": "PausaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\PausaManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PausaManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\PausaManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\PausaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T23:30:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NPCsentado.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\NPCsentado.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\NPCsentado.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\NPCsentado.cs",
+              "RelativeToolTip": "Assets\\scripts\\NPCsentado.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T23:53:06.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:21:12.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndicadorDano.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\IndicadorDano.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\IndicadorDano.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\IndicadorDano.cs",
+              "RelativeToolTip": "Assets\\scripts\\IndicadorDano.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T21:54:15.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HUDManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\HUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\HUDManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\mi proyecto\\Assets\\scripts\\HUDManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\HUDManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T21:54:06.613Z"
             }
           ]
         }

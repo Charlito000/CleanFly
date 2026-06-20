@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 191ffc2489439aa479bbc78259426e05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicaMenu: {fileID: 8300000, guid: f8a3e5b9015727049b24751e55c70e7a, type: 3}
+  - musicaJuego: {fileID: 8300000, guid: e6e4a79a4e399bd43a03b9c3c6cd823a, type: 3}
+  - sonidoGolpe: {fileID: 8300000, guid: e0d7b6b411ee3bc44a4b65c7777bc8b3, type: 3}
+  - sonidoLimpiar: {instanceID: 0}
+  - sonidoVolar: {fileID: 8300000, guid: ce87d0823a320464d91119ac8ebae2dd, type: 3}
+  - sonidoWin: {instanceID: 0}
+  - sonidoLose: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

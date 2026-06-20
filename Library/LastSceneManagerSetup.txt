@@ -1,5 +1,17 @@
 sceneSetups:
-- path: Assets/copia.unity
+- path: Assets/Menu.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Nivel1.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/Nivel2.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Nivel3.unity
+  isLoaded: 1
+  isActive: 0
   isSubScene: 0
